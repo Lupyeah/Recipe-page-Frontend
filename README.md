@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Recipe Page of an omelette" src="./assets/images/preview.png" width="100%">
+  <img alt="Recipe Page of an omelette" src="./assets/images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um site de receita de omelette
 
-- [Para ver no site]
+- [Para ver no site]https://lupyeah.github.io/Recipe-page-Frontend/
 
 ## 📌 Objetivo
 
