@@ -22,6 +22,7 @@ Um site de receita de omelette
 ## 📌 Objetivo
 
 O objetivo é construir a página mais parecida o possível com o design.
+<br>
 [Comparação](https://www.frontendmentor.io/solutions/responsive-recipe-page-4n2wNtmM0V)
 
 ## 📋 Funcionalidades
