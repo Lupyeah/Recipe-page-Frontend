@@ -192,3 +192,21 @@ main {
         color: hsl(228, 45%, 44%);
     }
 }
+
+@media (max-width: 768px) {
+  main {
+    margin-block: 0;
+    border-radius: 0;
+
+    img {
+    width: 125%;
+    margin-top: -2.5rem;
+    margin-left: -2.5rem;
+    border-radius: 0;
+    }
+  }
+
+  .attribution {
+    margin-block: 2rem;
+  }
+}
