@@ -17,12 +17,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um site de receita de omelette
 
-- [Para ver no site]https://lupyeah.github.io/Recipe-page-Frontend/
+- [Para ver no site](https://lupyeah.github.io/Recipe-page-Frontend/)
 
 ## 📌 Objetivo
 
 O objetivo é construir a página mais parecida o possível com o design.
-[Comparação]
+[Comparação](https://www.frontendmentor.io/solutions/responsive-recipe-page-4n2wNtmM0V)
 
 ## 📋 Funcionalidades
 
