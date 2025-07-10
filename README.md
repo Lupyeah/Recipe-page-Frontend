@@ -30,4 +30,5 @@ O objetivo é construir a página mais parecida o possível com o design.
 ---
 
 Thanks for checking out this front-end coding challenge.
+<br>
 Feito pela Lupy com ajuda do [Frontend](https://www.frontendmentor.io)!
